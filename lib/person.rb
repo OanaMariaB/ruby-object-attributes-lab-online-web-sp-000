@@ -8,7 +8,7 @@ class Person
       "{@new_name}"
     end
 
-  def job(job)
+  def job
     @job
   end
 
