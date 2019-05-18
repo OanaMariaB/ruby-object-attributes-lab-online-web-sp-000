@@ -8,13 +8,13 @@ class Dog
     "{new_name}"
   end
 
-  def bread
-    @bread
+  def breed
+    @breed
   end
 
-  def bread=(new_bread)
-    @bread = new_bread
-    "{@new_bread}"
+  def breed=(new_breed)
+    @breed = new_breed
+    "{@new_breed}"
   end
 
 end
