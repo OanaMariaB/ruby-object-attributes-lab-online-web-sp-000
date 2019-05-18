@@ -1,6 +1,6 @@
 class Dog
   def initialize (name)
-    @name = dogs_name
+    @name = dog_name
   end
 
   def name
@@ -10,4 +10,5 @@ class Dog
   def name=(new_name)
     @name = new_name
   end
+  
 end
